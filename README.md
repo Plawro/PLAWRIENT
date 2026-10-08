@@ -87,6 +87,15 @@ sent to the server by the mod itself.
 | **Haunting** | Random creepy sounds: footsteps behind you, distant doors, cave noises, whispers. |
 | **Herobrine** | A client-side "fake player" with white eyes that now and then appears in the distance and vanishes when you look at it. Exists only on your screen. |
 
+
+<img width="2560" height="1377" alt="2026-10-08_13 06 22" src="https://github.com/user-attachments/assets/45dd2ac3-b3d8-4d96-8466-f37990e129f7" />
+<img width="2560" height="1377" alt="2026-10-08_13 05 06" src="https://github.com/user-attachments/assets/006c7a2c-da34-417b-820d-f941ab9a4e6a" />
+<img width="2560" height="1377" alt="2026-10-08_13 04 15" src="https://github.com/user-attachments/assets/a1fe39ed-b3e9-4008-8c26-c08667bc64da" />
+<img width="2560" height="1377" alt="2026-10-08_13 04 05" src="https://github.com/user-attachments/assets/aab84f9c-62b0-4486-95d8-fec4d0bdcac0" />
+<img width="2560" height="1377" alt="2026-10-08_13 03 54" src="https://github.com/user-attachments/assets/4e15cc5a-9168-4262-a588-bb1296f770ff" />
+<img width="2560" height="1377" alt="2026-10-08_13 02 34" src="https://github.com/user-attachments/assets/d2266351-1545-4d8f-a1c8-45c4fa05a963" />
+
+
 ---
 
 ## Quick start
